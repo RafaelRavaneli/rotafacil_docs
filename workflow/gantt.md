@@ -1,0 +1,1 @@
+![Gantt Físico](foto-gantt.jpeg)

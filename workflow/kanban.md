@@ -1,0 +1,1 @@
+![Kanban Físico](foto-kanban.jpeg)
